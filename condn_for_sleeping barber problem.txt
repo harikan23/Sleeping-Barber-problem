@@ -1,0 +1,5 @@
+Conditions in Sleeping Barber Problem are :
+    Barber should sleep when there are no customers
+    Barber should wake up when customer enters the Waiting Room
+    If there is an empty chair in Waiting Room, Customer is allowed to sit
+     Otherwise he should leave the shop
